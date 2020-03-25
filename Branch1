@@ -1,0 +1,4 @@
+git branch first_branch
+git checkout first_branch
+touch example.txt
+echo "This is my first branch on GitHub through Atom" > example.txt
