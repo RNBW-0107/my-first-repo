@@ -1,0 +1,2 @@
+git remote add origin https://github.com/RNBW-0107/my-first-repo.git
+git push -u origin master
